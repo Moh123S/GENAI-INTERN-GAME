@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+redis==5.0.8
+psycopg2-binary==2.9.9
+openai==1.51.0
+python-dotenv==1.0.1
+aiohttp==3.10.5
+better-profanity==0.7.0
+pytest==8.3.3
+tenacity==9.0.0
